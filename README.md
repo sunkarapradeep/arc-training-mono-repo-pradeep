@@ -1,1 +1,0 @@
-# arc-training-mono-repo-pradeep
